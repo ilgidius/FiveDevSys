@@ -1,0 +1,79 @@
+﻿
+        body {
+        
+       background-color:white;
+        
+        }
+
+.page_name h2 {
+
+    font-style:italic;
+    text-align:center;
+    font-size:24px;
+
+}
+
+.example3 {
+    display:inline-block;   
+    position:relative;
+}
+.example3 .example_text {
+       font-family:FF Meta Serif;
+    display:block;
+    position:absolute;
+    left:0;
+   
+    top:0;
+    width:100%;
+   
+    box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; 
+    font-style:oblique;
+    color:#fff;
+         
+    padding:10px;
+    background-color:rgba(0,0,0,0.3);
+ 
+     
+}
+.example3 h6 {
+    text-align:center;
+   font-family:FF Meta Serif;
+    font-size:28px;
+  font-size: 3vw; 
+}
+.example3 span {
+ font-style:italic;
+    font-size:18px; 
+      font-family:FF Meta Serif;
+
+}
+
+.info{
+    font-family:FF Meta Serif;
+margin: 10px;
+/*padding: 15px 17px 15px 10px;
+border: 1px solid #026194;
+border-radius: 10px;
+— moz-border-radius: 10px;
+— webkit-border-radius: 10px;
+box-shadow: 2px 2px 3px #bbb;
+— moz-box-shadow: 2px 2px 3px #bbb;
+— webkit-box-shadow: 2px 2px 3px #bbb;*/
+font-size: 18px;
+ color:#5B5B5B;
+text-align:justify;
+
+}
+
+
+/* LIST #2 */
+#list2 { width:100%; }
+#list2 ul { font-style:italic;font-family:FF Meta Serif; font-size:18px; color:#5B5B5B;  }
+#list2 ul li {list-style-image: url(/Images/list-marker.png);
+	list-style-type: disc; }
+#list2 ul li p {  padding:8px;  font-style:normal; font-family:FF Meta Serif; font-size:18px; color:#5B5B5B; border-left: 3px solid #0094ff;
+                  }
+#list2 ul li p em { display:block; }

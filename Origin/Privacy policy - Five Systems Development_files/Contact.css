@@ -1,0 +1,51 @@
+﻿      body {
+        
+           background-color:white;
+        
+        }
+
+      .example3 {
+    display:inline-block;   
+    position:relative;
+
+}
+
+
+
+
+.example3 .example_text {
+        
+   font-family:"FF Meta Serif";
+    display:block;
+    position:absolute;
+    left:0;
+    
+    top:0;
+    width:100%;
+   
+    box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; 
+     
+    color:#fff;
+   
+    padding:10px;
+    background-color:rgba(0,0,0,0.3);
+ 
+     
+}
+.example3 p {
+    margin:-10px;
+    text-align:right;
+     font-family:"FF Meta Serif";
+    font-size:1vw; 
+}
+.example3 span {
+ 
+ font-style:italic;
+    font-size: 5vw; 
+        font-family:"FF Meta Serif";
+    text-align:center;
+   
+}
