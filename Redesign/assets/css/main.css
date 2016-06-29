@@ -429,12 +429,10 @@ a:after {
 .pricing-option .pricing-signup:hover {
     background: #ff7878;
 }
-.logo-container{
-min-height: 450px;
-padding-left:200px;
-padding-right:200px;
-box-sizing:border-box;
-position:absolute;
-background:rgba(26, 45, 48, 0.4);
+.header{
+max-width:1200px;
+}
+.container-c{
+width:1170px;
 }
 
